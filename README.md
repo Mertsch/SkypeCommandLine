@@ -17,3 +17,6 @@ SetSkypeStatus.exe [Status]
 # Installation
 Run the application with any Status, then confirm within Skype once.
 Now use the application as often as you want.
+
+# References
+https://code.msdn.microsoft.com/windowsdesktop/Skype-Integration-in-WPF-6fc42a1e
